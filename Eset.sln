@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.438
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eset", "Eset\Eset.csproj", "{F187A51A-8B05-41A1-AC48-E5FA79023F50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F187A51A-8B05-41A1-AC48-E5FA79023F50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F187A51A-8B05-41A1-AC48-E5FA79023F50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F187A51A-8B05-41A1-AC48-E5FA79023F50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F187A51A-8B05-41A1-AC48-E5FA79023F50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {775990D5-C739-494D-9AEB-E362EA24BDC8}
+	EndGlobalSection
+EndGlobal
